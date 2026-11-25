@@ -1,3 +1,3 @@
 source: aon-co-jp/open-english-news-snippets-archive
-commit: fb1f5fe9bde0ad665f9c513ef4249bec87e5c202
-updated: 2026-11-24T10:38:07Z
+commit: f7eea46598cf0fdcc3e9cb61a3622f26304994e8
+updated: 2026-11-25T05:51:13Z
